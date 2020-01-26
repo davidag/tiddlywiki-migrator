@@ -2,6 +2,8 @@
 
 TiddlyWiki Migrator is a set of scripts put together to automate the migration from a TiddlyWiki (TW). It allows to export all tiddlers in a single-file HTML TiddlyWiki to multiple markdown files (one per tiddler), excluding system tiddlers.
 
+![Process design](design/process.png)
+
 ## Dependencies
 
 * Node.js (tested with v10.4.0)
