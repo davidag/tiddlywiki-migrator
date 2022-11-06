@@ -70,3 +70,6 @@ Markdown format is commonplace on the Internet: in forums, blogs, source code re
 
 Markdown files usually end with the .md extension and follow the Markdown text format.
 
+### Where can I read more about the process of building this script?
+
+On my blog here: https://davidalfonso.es/posts/migrating-from-tiddlywiki-to-markdown-files
