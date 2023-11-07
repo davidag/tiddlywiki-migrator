@@ -72,4 +72,4 @@ Markdown files usually end with the .md extension and follow the Markdown text f
 
 ### Where can I read more about the process of building this script?
 
-On my blog here: https://davidalfonso.es/posts/migrating-from-tiddlywiki-to-markdown-files
+I wrote [a post](https://davidalfonso.es/posts/tiddlywiki-to-markdown) with some more detail.
